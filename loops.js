@@ -21,10 +21,13 @@ function whileLoop(){
 
 
 function doWhileLoop(integer){
-  do()
-  incrementVariable()
+  do{
+    console.log();
+   }while
   
+  (incrementVariable()
   
+  )
 }
 
 
