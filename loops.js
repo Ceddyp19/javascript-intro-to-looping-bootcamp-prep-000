@@ -25,7 +25,7 @@ function doWhileLoop(num){
     console.log("I run once regardless");
    }while
   
-  (incrementVariable() < 0
+  (incrementVariable(0) < 10
   
   );
 }
