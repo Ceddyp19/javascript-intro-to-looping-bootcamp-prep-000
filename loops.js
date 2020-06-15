@@ -22,7 +22,7 @@ function whileLoop(){
 
 function doWhileLoop(integer){
   do{
-    console.log();
+    console.log("I run once regardless");
    }while
   
   (incrementVariable()
