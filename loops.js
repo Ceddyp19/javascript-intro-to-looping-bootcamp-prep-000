@@ -12,7 +12,6 @@ function forLoop(array){
       
     }
   }
-  return i;
 }
 
 function whileLoop(){
