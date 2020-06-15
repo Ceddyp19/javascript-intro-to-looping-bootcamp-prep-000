@@ -27,7 +27,7 @@ function doWhileLoop(integer){
   
   (incrementVariable(0) < num
   
-  )
+  );
 }
 
 
