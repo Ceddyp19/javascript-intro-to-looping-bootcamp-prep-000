@@ -12,4 +12,5 @@ function forLoop(array){
       
     }
   }
+  return i;
 }
