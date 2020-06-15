@@ -28,6 +28,7 @@ function doWhileLoop(num){
   (incrementVariable(0) < 10
   
   );
+  return incrementVariable;
 }
 
 
