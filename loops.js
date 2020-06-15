@@ -21,7 +21,7 @@ function whileLoop(){
 
 
 function doWhileLoop(integer){
-  
+  do()
   incrementVariable()
   
   
